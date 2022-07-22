@@ -12,6 +12,6 @@
 - 📫 How to reach me **1546214265@qq.com**
 
 
-<div><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TIX007&show_icons=true&locale=en&layout=compact" alt="kimjayden" /><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=TIX007&show_icons=true&locale=en" alt="peter-kimanzi" /></div>
+<div><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TIX007&show_icons=true&bg_color=75DCF6&locale=en&layout=compact" alt="kimjayden" /><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=TIX007&show_icons=true&title_color=2F80ED&icon_color=F5D42F&text_color=808B96&bg_color=75DCF6&hide=["contribs"]" alt="peter-kimanzi" /></div>
 
-<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TIX007&" alt="peter-kimanzi" /></div>
+<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TIX007&bg_color=75DCF6&" alt="peter-kimanzi" /></div>
