@@ -2,6 +2,8 @@
 
 <div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TIX007&" alt="peter-kimanzi" /></div>
 
+
+
 ## Hey 👋
 
 
@@ -9,4 +11,7 @@
 [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyihuaxiang)](https://github.com/TIX007)
 
 - 🔭 I live in ShangHai and work as a [Front End engineer 👨‍💻](). 
+
 - 😎 I am also a [Blogger 📝](http://fengling.xyz).
+
+- 📫 How to reach me **1546214265@qq.com**
